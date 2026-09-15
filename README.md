@@ -14,7 +14,7 @@
 
 ### 🌿 About Me
 
-* 🎓 **Status:** Student of group **I-3-25** & wandering coder.
+* 🎓 **Status:** Student of CEPU & wandering coder.
 * 🛠️ **Building:** Small tools, simple scripts, and foundation skills.
 * 💚 **Likes:** Moss, mushrooms, and simple workflows.
 
