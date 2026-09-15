@@ -19,6 +19,6 @@
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grenid&show_icons=true&theme=forest&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Grenid&show_icons=true&theme=forest&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grenid&layout=compact&theme=forest&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Grenid&layout=compact&theme=forest&hide_border=true)
