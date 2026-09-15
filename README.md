@@ -39,12 +39,17 @@
 
 ### 📊 Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Grenid">
+    <img src="https://nice-readme.vercel.app/stats?username=Grenid&theme=forest&hide_border=true&show_icons=true" alt="Grenid's GitHub Stats" />
+  </a>
+</p>
 
-  ![Commits](https://img.shields.io/badge/Status-Exploring%20Forests-2e8b57?style=for-the-badge&logo=tree&logoColor=white)
-  ![Contributions](https://img.shields.io/badge/Activity-Active%20Gnome-483d8b?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Grenid">
+    <img src="https://nice-readme.vercel.app/streak-stats?user=Grenid&theme=forest&hide_border=true" alt="Grenid's GitHub Streak" />
+  </a>
+</p>
 ---
 
 <div align="center">
