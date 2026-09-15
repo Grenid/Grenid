@@ -5,6 +5,7 @@
 
   # 🛠️ Welcome to the Gnome's Workbench! 🍄
 
+  *Student | Group I-3-25*  
   *Minimalist Coder & Maker of Small Things.*
 
 </div>
@@ -13,9 +14,9 @@
 
 ### 🌿 About Me
 
+* 🎓 **Status:** Student of group **I-3-25** & wandering coder.
 * 🛠️ **Building:** Small tools, simple scripts, and foundation skills.
 * 💚 **Likes:** Moss, mushrooms, and simple workflows.
-* 🍄 **Status:** Wandering through the digital forest.
 
 ---
 
@@ -54,7 +55,9 @@
 
   ### 📫 Take a Rest at the Campfire
 
-  *Gnomes only use email (and maybe discord)*  
-  Feel free to open an Issue or a Pull Request!
+  [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198989126602/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/674334719361548299)
+
+  *Feel free to reach out, open an Issue, or send a Pull Request!*
 
 </div>
