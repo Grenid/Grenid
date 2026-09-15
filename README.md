@@ -41,7 +41,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Grenid&theme=forest&margin-w=15&no-frame=true" alt="Grenid Trophies" />
+  <img src="https://raw.githubusercontent.com/Grenid/Grenid/main/profile-3d-contrib/profile-night-view.svg" alt="Activity Graph" />
 
 </div>
 ---
