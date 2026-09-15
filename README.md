@@ -41,7 +41,8 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Grenid/Grenid/main/profile-3d-contrib/profile-night-view.svg" alt="Activity Graph" />
+  ![Commits](https://img.shields.io/badge/Status-Exploring%20Forests-2e8b57?style=for-the-badge&logo=tree&logoColor=white)
+  ![Contributions](https://img.shields.io/badge/Activity-Active%20Gnome-483d8b?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 ---
