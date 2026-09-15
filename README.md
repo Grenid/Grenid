@@ -41,13 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/Grenid">
-    <img src="https://nice-readme.vercel.app/stats?username=Grenid&theme=forest&hide_border=true&show_icons=true" alt="Grenid's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Grenid">
-    <img src="https://nice-readme.vercel.app/streak-stats?user=Grenid&theme=forest&hide_border=true" alt="Grenid's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Grenid&theme=forest&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
