@@ -3,7 +3,7 @@
   <!-- Главный баннер-приветствие -->
   <img src="Assets/Gnomes4.png" alt="Welcome Gnome" width="100%" style="border-radius: 10px;"/>
 
-  # 🌿 Welcome to the Moss Patch!
+  # 🛠️ Welcome to the Gnome's Workbench! 🍄
 
   *Minimalist Coder & Maker of Small Things.*
 
@@ -11,10 +11,10 @@
 
 ---
 
-### 🛠️ About Me
+### 🌿 About Me
 
-* 🛠️ **Building:** Small tools, clean logic, and elegant code.
-* 💚 **Likes:** Moss, pixels, mushrooms, and simple workflows.
+* 🛠️ **Building:** Small tools, simple scripts, and foundation skills.
+* 💚 **Likes:** Moss, mushrooms, and simple workflows.
 * 🍄 **Status:** Wandering through the digital forest.
 
 ---
