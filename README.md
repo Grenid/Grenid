@@ -41,12 +41,10 @@
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grenid&theme=forest&hide_border=true)
-
-  ![Top Langs](https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=Grenid&layout=compact&theme=forest&hide_border=true)
+  <!-- График активности (заменяет падающие карточки) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grenid&theme=react-dark&hide_border=true" alt="Grenid's Activity Graph" width="100%" />
 
 </div>
-
 ---
 
 <div align="center">
