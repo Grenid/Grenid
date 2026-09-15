@@ -41,9 +41,7 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grenid&theme=solarized_dark)
-
-  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repr-top-languages?username=Grenid&theme=solarized_dark)
+  <img src="https://github-profile-trophy.vercel.app/?username=Grenid&theme=forest&margin-w=15&no-frame=true" alt="Grenid Trophies" />
 
 </div>
 ---
