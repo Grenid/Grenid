@@ -1,13 +1,28 @@
-# Minimalist Coder & Maker of Small Things. 🌿
+<div align="center">
+
+  <!-- Главный баннер-приветствие -->
+  <img src="Assets/Gnomes4.png" alt="Welcome Gnome" width="100%" style="border-radius: 10px;"/>
+
+  # 🌿 Welcome to the Moss Patch!
+
+  *Minimalist Coder & Maker of Small Things.*
+
+</div>
 
 ---
 
 ### 🛠️ About Me
-* 🛠️ **Building:** Small tools and elegant code
-* 💚 **Likes:** Moss, Mushrooms, and simple workflows
-* 📫 **Contact:** Gnomes only use email (and maybe discord)!
+
+* 🛠️ **Building:** Small tools, clean logic, and elegant code.
+* 💚 **Likes:** Moss, pixels, mushrooms, and simple workflows.
+* 🍄 **Status:** Wandering through the digital forest.
 
 ---
+
+<div align="center">
+  <!-- Картинка: Путь по бревну -->
+  <img src="Assets/Gnomes1.png" alt="Gnomes Walking" width="100%" style="border-radius: 8px;"/>
+</div>
 
 ### 🧰 Tech Stack
 
@@ -17,6 +32,31 @@
 
 ---
 
+<div align="center">
+  <!-- Картинка: Переправа через реку -->
+  <img src="Assets/Gnomes3.png" alt="Gnomes Crossing River" width="100%" style="border-radius: 8px;"/>
+</div>
+
 ### 📊 Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grenid&theme=react-dark&hide_border=true)
+<div align="center">
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grenid&theme=forest&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=Grenid&layout=compact&theme=forest&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Картинка: Привал у костра -->
+  <img src="Assets/Gnomes2.png" alt="Gnome Campfire" width="100%" style="border-radius: 8px;"/>
+
+  ### 📫 Take a Rest at the Campfire
+
+  *Gnomes only use email (and maybe discord)*  
+  Feel free to open an Issue or a Pull Request!
+
+</div>
