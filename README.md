@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/Grenid">
-    <img src="https://streak-stats.demolab.com?user=Grenid&theme=forest&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Grenid&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
