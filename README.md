@@ -41,8 +41,9 @@
 
 <div align="center">
 
-  <!-- График активности (заменяет падающие карточки) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grenid&theme=react-dark&hide_border=true" alt="Grenid's Activity Graph" width="100%" />
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grenid&theme=solarized_dark)
+
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repr-top-languages?username=Grenid&theme=solarized_dark)
 
 </div>
 ---
