@@ -16,7 +16,7 @@
 
 * 🎓 **Status:** Student of CEPU & wandering coder.
 * 🛠️ **Building:** Small tools, simple scripts, and foundation skills.
-* 💚 **Likes:** Moss, mushrooms, and simple workflows.
+* 💚 **Likes:** Mushrooms, and simple workflows.
 
 ---
 
